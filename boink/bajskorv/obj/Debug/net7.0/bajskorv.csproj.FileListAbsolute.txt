@@ -1,0 +1,14 @@
+c:\Users\adam.lysen\progamiss\boink\bajskorv\bin\Debug\net7.0\bajskorv.exe
+c:\Users\adam.lysen\progamiss\boink\bajskorv\bin\Debug\net7.0\bajskorv.deps.json
+c:\Users\adam.lysen\progamiss\boink\bajskorv\bin\Debug\net7.0\bajskorv.runtimeconfig.json
+c:\Users\adam.lysen\progamiss\boink\bajskorv\bin\Debug\net7.0\bajskorv.dll
+c:\Users\adam.lysen\progamiss\boink\bajskorv\bin\Debug\net7.0\bajskorv.pdb
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.AssemblyInfoInputs.cache
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.AssemblyInfo.cs
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.csproj.CoreCompileInputs.cache
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.dll
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\refint\bajskorv.dll
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.pdb
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\bajskorv.genruntimeconfig.cache
+c:\Users\adam.lysen\progamiss\boink\bajskorv\obj\Debug\net7.0\ref\bajskorv.dll
